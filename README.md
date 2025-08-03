@@ -1,7 +1,8 @@
 # clima-terminal 	
 Programa simples em Node.js para consultar o clima pelo terminal, usando a API do OpesWeatherMap.
 
-## O que o progr°C
+## O que o programa exibe
+-Temperatura em °C
 -Umidade do ar
 -Velocidade do vento
 -Condição do tempo (ex: céu limpo, chuva)
